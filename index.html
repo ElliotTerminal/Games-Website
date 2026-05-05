@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Games I have played — a personal showcase."
+    />
+    <title>Games I’ve Played</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700&family=Syne:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a class="skip-link" href="#game-list">Skip to games</a>
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <h1 class="site-title">
+          <span class="site-title__word">GAMES</span>
+          <span class="site-title__word">I’VE</span>
+          <span class="site-title__word">PLAYED</span>
+        </h1>
+        <p class="site-tagline">
+          rated as <strong>?/10</strong> and <strong>W</strong>
+        </p>
+      </div>
+    </header>
+
+    <main id="game-list" class="game-list" aria-live="polite"></main>
+
+    <div
+      class="overlay"
+      id="overlay"
+      hidden
+      aria-hidden="true"
+    ></div>
+
+    <article
+      class="detail-panel"
+      id="detail-panel"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="detail-title"
+      hidden
+    >
+      <div class="detail-panel__media">
+        <img id="detail-banner" alt="" />
+      </div>
+      <div class="detail-panel__body">
+        <h2 class="detail-panel__title" id="detail-title"></h2>
+        <dl class="detail-meta" id="detail-meta"></dl>
+        <div class="detail-content" id="detail-content"></div>
+        <div class="detail-links" id="detail-links"></div>
+      </div>
+      <button
+        type="button"
+        class="detail-panel__close"
+        id="detail-close"
+        aria-label="Close details"
+      >
+        ×
+      </button>
+    </article>
+
+    <footer class="site-footer">
+      <a
+        class="source-link"
+        href="https://github.com/ElliotTerminal"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Open source code on GitHub"
+      >
+        <img src="banners/github_logo.svg" alt="GitHub" class="source-link__icon" />
+        <span class="source-link__text">Open Source Page</span>
+      </a>
+    </footer>
+
+    <script src="js/games-data.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
