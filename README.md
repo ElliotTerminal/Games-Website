@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/HTML-orange?style=flat-square">
 </p>
 
+### 🌍 WEBSITE VIEW : https://elliotterminal.github.io/Games-Website/
+
 ### √ Description :
 
 This Web Page - Shows number of games played, in form of cards, till date. Using stylish UI in every details for better visuals and graphics. Gamers can publish such pages in their social media handle to keep their viewers and followers updated.
@@ -49,7 +51,7 @@ Replace the given entries with your real games.
 - [`css/style.css`](css/style.css)
 - [`js/(all the javascript files)`](/js).
 
-## [!] Disclaimer
+## ! Disclaimer
 ***This Web Page is developed for educational purposes. 
    Here it demonstrates how one can showcase the number of games he/she played till date with personal rates.  
    You have your own responsibilities and you are liable to any damage or violation of laws by using the source code of your own project. 
@@ -57,4 +59,4 @@ Replace the given entries with your real games.
 
 ### This repository is open source to all. Make sure to give credit on your GitHub repository or Social Media before using the source code of the Web Page. Show your support for this Open Source developer.
 
-####  If this tool helped you, please consider staring this repository. Your stars will motivate me a lot!
+####  If this source code helped you, please consider sharing and staring this repository. Your stars will motivate me a lot!
