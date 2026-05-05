@@ -17,7 +17,7 @@ window.GAMES_DATA = [
   {
     name: "Red Dead Redemption 2",
     banner:
-      "banners/red_dead_redemption_2.jpg",
+      "./banners/red_dead_redemption_2.jpg",
     bannerAlt: "Red Dead Redemption 2 banner",
     summary: "A PURE MASTERPIECE BY ROCKSTAR GAMES",
     meta: {
@@ -37,7 +37,7 @@ window.GAMES_DATA = [
   {
     name: "Detroit: Become Human",
     banner:
-      "banners/detroit_become_human.jpg",
+      "./banners/detroit_become_human.jpg",
     bannerAlt: "Detroit: Become Human banner",
     summary: "A PURE MASTERPIECE BY QUANTIC DREAMS",
     meta: {
@@ -55,7 +55,7 @@ window.GAMES_DATA = [
   {
     name: "Hitman: Blood Money",
     banner:
-      "banners/hitman_blood_money.jpg",
+      "./banners/hitman_blood_money.jpg",
     bannerAlt: "Hitman: Blood Money banner",
     summary: "GOOD GAME BY IO INTERACTIVE",
     meta: {
@@ -72,7 +72,7 @@ window.GAMES_DATA = [
   {
     name: "Alan Wake 2",
     banner:
-      "banners/alan_wake_2.jpg",
+      "./banners/alan_wake_2.jpg",
     bannerAlt: "Alan Wake 2 banner",
     summary: "AWESOME GAME BY REMEDY ENTERTAINMENT",
     meta: {
@@ -89,7 +89,7 @@ window.GAMES_DATA = [
   {
     name: "Battlefield 3",
     banner:
-      "banners/battlefield_3.jpg",
+      "./banners/battlefield_3.jpg",
     bannerAlt: "Battlefield 3 banner",
     summary: "BEST GAME OF THE FRANCHISE BY DICE",
     meta: {
@@ -106,7 +106,7 @@ window.GAMES_DATA = [
   {
     name: "Battlefield 4",
     banner:
-      "banners/battlefield_4.jpg",
+      "./banners/battlefield_4.jpg",
     bannerAlt: "Battlefield 4 banner",
     summary: "ANOTHER W GAME OF THE FRANCHISE BY DICE",
     meta: {
