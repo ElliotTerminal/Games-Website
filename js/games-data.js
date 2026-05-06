@@ -1,6 +1,4 @@
 /**
- * Your catalog — newest first works well for a chronological “played” list.
- *
  * Fields:
  *   name      — shown on the card and in the detail header (required).
  *   banner    — URL or path to a wide image (21:9 or 16:9 looks best).
