@@ -9,6 +9,10 @@
 
 ### 🌍 WEBSITE VIEW : https://elliotterminal.github.io/Games-Website/
 
+<img width="800" height="450" alt="preview" src="https://github.com/user-attagos/assets/fdcce1fc-d042-49db-bee0-6b769434ac69" />
+
+![](banners/preview.gif)
+
 ### √ Description :
 
 This Web Page - Shows number of games played, in form of cards, till date. Using stylish UI in every details for better visuals and graphics. Gamers can publish such pages in their social media handle to keep their viewers and followers updated.
