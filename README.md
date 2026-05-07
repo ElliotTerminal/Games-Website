@@ -9,7 +9,7 @@
 
 ### 🌍 WEBSITE VIEW : https://elliotterminal.github.io/Games-Website/
 
-### ▶︎ Preview :
+### ▶︎  Preview :
 ![](banners/preview.gif)
 
 ### √ Description :
