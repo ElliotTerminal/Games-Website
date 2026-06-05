@@ -117,5 +117,22 @@ window.GAMES_DATA = [
     ],
     links: {
       Steam: "https://store.steampowered.com/app/1238860/Battlefield_4/"}
+  },
+  {
+    "name": "The Mortuary Assistant",
+    "banner": "./banners/the_mortuary_assistant.jpg",
+    "bannerAlt": "The Mortuary Assistant banner",
+    "summary": "AWESOME INDIE GAME BY KOBOLD SOFTWARE",
+    "meta": {
+      "Platform": "PC",
+      "In a Nutshell": "8/10",
+      "Status": "Finished"
+    },
+    "body": [
+      "A real horror series. There are minute details in the game that will make you feel the horror. The story is decent and the gameplay is good. Horror game lovers, GO FOR IT!"
+    ],
+    "links": {
+      "Steam": "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/"
+    }
   }
 ];
