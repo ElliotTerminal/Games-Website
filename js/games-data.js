@@ -21,7 +21,7 @@ window.GAMES_DATA = [
     meta: {
       Platform: "PC",
       "In a Nutshell": "W",
-      Status: "Playing",
+      Status: "Finished",
     },
     body: [
       "Just GO Play!",
